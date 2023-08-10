@@ -3,25 +3,27 @@
 
 ### <홈화면>
 
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/7fcefb87-b8ce-40fc-9f02-20d2883cf9c5" width="800px;"/>
+![259707726-8d4c6679-15df-43d1-ad22-522c45177c98](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/01ce8bf0-d5c0-4884-a9ab-c5a302c9e7ff)
 
 ### <앱소개>
 
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/2eeebda4-4d62-453d-b2e1-1ea21edcff80" width="800px;"/>
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/dee087f9-67d9-4401-bf60-93b285021c5b)" width="800px;"/>
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/15f4e53b-073c-40c6-9c3a-5999c2586ae6" width="800px;"/>
+![259707765-9e0acf8e-989f-4fda-978d-041f7964bf00](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/71a92658-a319-4a23-8961-9359ce520dcd)
+![259707792-f74ed07f-0c8f-49ce-a4d3-bcf1fdcd669a](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/841f1140-b4af-469f-824f-e3d86ca7f5b8)
+![259707830-def920af-05d1-46fe-b5d8-4c1a5fb39b8d](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/09588ef9-2579-4d71-8ee5-31dc6717f4b0)
 
 
 ### <다운로드>
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/e1f19c56-896b-4cf9-9249-fbf28fa70da1" width="800px;"/>
+
+![259707880-1acbc929-c45a-4e94-89cc-e34b16b35dcd](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/1b0c6c91-5b5a-4713-a08d-7685339fe345)
 
 
 ### <AI모델>
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/6a50480d-3191-44e0-bd96-428f895319cb" width="800px;"/>
+
+![6a50480d-3191-44e0-bd96-428f895319cb](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/6e9abb77-12f3-4e73-ac99-69e52f35efe5)
 
 ### <팀원소개>
 
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web/assets/124108699/eea4ef20-1bca-4e11-b5b6-4a66a7239c4b" width="800px;"/>
+![eea4ef20-1bca-4e11-b5b6-4a66a7239c4b](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web/assets/33805423/595f2e0b-e7ee-4f10-a859-5a2e940e5e63)
 
 ### <슬라이드 이미지 css 제작>
 ```
